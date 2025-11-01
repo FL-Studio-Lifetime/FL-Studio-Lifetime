@@ -50,7 +50,7 @@
 ---
 
 <div align="center">
-  <a href="https://fl-studio-lifetime-collective.github.io/FL-Studio-Lifetime/" target="_blank" rel="noopener">
+  <a href="https://fl-studio-lifetime.github.io/FL-Studio-Lifetime/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Produce_Pro_Now-FF4500?style=for-the-badge&logo=flstudio&logoColor=white&labelColor=0D1117"
          alt="Produce Pro Now" width="380"
          style="border-radius:8px;" />
